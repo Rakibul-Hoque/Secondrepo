@@ -1,1 +1,1 @@
-print("welcome to hub")
+print("welcome to the hub")
